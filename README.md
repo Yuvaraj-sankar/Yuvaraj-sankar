@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**Yuvaraj-sankar/Yuvaraj-sankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Yuvaraj! 👋
+🎓 BBA Graduate from Alagappa University.
+💼 Aspiring Data Analyst interested in Business Operations and Data Analytics.
+🛠️ Skills & Learning
+📊 Microsoft Excel — Basic Knowledge
+📈 Power BI — Currently Learning
+💻 Computer Skills
+🤝 Communication & Teamwork
+🎯 Goals
+Improve my data analysis skills.
+Build practical projects using Excel and Power BI.
+Explore opportunities in Data Analytics and Business Operations.
+📫 Connect with Me
+Email: yuvarajshankar8825@gmail.com
